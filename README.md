@@ -8,7 +8,7 @@ Este curso está diseñado para entusiastas de la informática y profesionales q
 
 Desde la introducción a los modelos de lenguaje grandes (LLM) hasta la generación de imágenes y videos con IA, este curso te brindará una visión completa de las posibilidades que ofrece la IA generativa. Además, te sumergirás en el arte del prompt engineering, aprendiendo a crear instrucciones efectivas para interactuar con modelos de IA de manera óptima.
 
-## Roadmap del Curso 🛣️
+## Curso 🛣️
 
 1. **Introducción a la Inteligencia Artificial y Prompt Engineering** 🔍
   - Fundamentos de la IA y los LLM
